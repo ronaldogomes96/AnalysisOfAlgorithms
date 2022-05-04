@@ -1,13 +1,13 @@
 # AnalysisOfAlgorithms
-This repository was made to provide all algorithms made in C++ for the Analysis Of Algorithms discipline in the Computer Science course at IFCE.
+This repository was made to provide all algorithms made in C++ and Swift for the Analysis Of Algorithms discipline in the Computer Science course at IFCE. The objective is to analyze the functioning of the algorithms in both languages, in addition to implementing the proposed codes in the classroom.
+
+At this moment the implemented algorithms were:
+
+
 
 ## How to use?
-### CLion Project
-You can clone the project using:
 
-git clone https://github.com/ronaldogomes96/AnalysisOfAlgorithms.git
-
-After that, just run the project in the CLion IDEA.
+Clion Project and Xcode Project
 
 ## Want to contribute?
 
@@ -19,5 +19,5 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2022 [Ronaldo Gomes](https://github.com/ronaldogomes96)
+Copyright © 2022 [Ronaldo Gomes](https://github.com/ronaldogomes96) and [Pedro Sousa](https://github.com/pedro0x53)
 
